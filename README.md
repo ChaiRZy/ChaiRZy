@@ -1,12 +1,12 @@
 # ChaiRZy
 
-_This README contains both Chinese and English versions.  
-Click the arrows to expand the language you want._
+## Hi there 👋 I'm 柴(chai) 🧑‍💻
+
+[Go to English section](#english)  
 
 <details open>
 <summary>中文</summary>
 
-## Hi there 👋, I'm 柴 🧑‍💻
 
 > **5 年数控编程** 🛠️ + **7 年全栈** 💻  
 > Java / 全栈 / 架构 / 技术经理 —— 标签随便贴，代码才是硬通货。
@@ -45,10 +45,9 @@ Click the arrows to expand the language you want._
 
 </details>
 
-<details>
-<summary>English</summary>
+<details open>
+<summary id="english">English</summary>
 
-## Hi there 👋, I'm Chai 🧑‍💻
 
 > **5 years of CNC programming** 🛠️ + **7 years full-stack** 💻  
 > Java / full-stack / architecture / tech manager — labels don’t matter, code is the real currency.

@@ -1,4 +1,6 @@
-## Hi there 👋, I'm 柴 🧑‍💻
+## Hi there 👋, I'm 柴 🧑‍💻  
+[English Version](./README_EN.md)  
+
 
 > **5 年数控编程** 🛠️ + **7 年全栈** 💻  
 > Java / 全栈 / 架构 / 技术经理 —— 标签随便贴，代码才是硬通货。

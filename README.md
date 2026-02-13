@@ -1,5 +1,11 @@
-## Hi there 👋, I'm 柴 🧑‍💻  
-[English Version](./README_EN.md)  
+# ChaiRZy
+
+## Hi there 👋 I'm 柴(chai) 🧑‍💻
+
+[Go to English section](#english)  
+
+<details open>
+<summary>中文</summary>
 
 
 > **5 年数控编程** 🛠️ + **7 年全栈** 💻  
@@ -36,3 +42,46 @@
 
 📫 怎么找我？  
 [GitHub Issues]（对，我就是这么懒，有事直接提）
+
+</details>
+
+<details open>
+<summary id="english">English</summary>
+
+
+> **5 years of CNC programming** 🛠️ + **7 years full-stack** 💻  
+> Java / full-stack / architecture / tech manager — labels don’t matter, code is the real currency.
+
+---
+
+### 🔥 What am I working on lately?
+
+- 🦀 **openClaw** deep player — it’s my token! burning funds every day 💸
+- 🤖 **Local large models** trouble-shooter — one context run nearly smoked my machine 💥
+- ⚡ **AI-driven development** practitioner — 60% of code written by AI; I handle the "directions" and clean up the mess
+
+---
+
+### 🧠 My crude understanding of AI
+
+- **MCP**: Gives AI a **hand** — lets it touch external data and tools  
+- **RAG**: Gives AI a **short-term memory brain** — open-book exams, reject hallucinations  
+- **Agent**: Gives AI a **planning brain** — knows what to do first and next  
+- **Skill**: Gives AI a **pipeline muscle** — atomic operations, aim and execute
+
+❓ What is still needed to replace humans?  
+**Creativity** and **autonomy** — the last strongholds of humanity, and my final stubbornness 😏
+
+---
+
+### ⚡ Geek creed
+
+> “Worrying about being replaced by AI while wildly tempting fate”  
+> Code never dies, tinkering never stops 🚀
+
+---
+
+📫 How to reach me?  
+[GitHub Issues] (yes, I’m that lazy; just open an issue)
+
+</details>
